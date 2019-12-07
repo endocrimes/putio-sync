@@ -1,0 +1,9 @@
+github.com/boltdb/bolt v1.2.2-0.20160616193316-3f7947a25d97/go.mod h1:clJnj/oiGkjum5o1McbSZDSLxVThjynRyGBgiAx27Ps=
+github.com/cenk/backoff v1.0.1-0.20160526204934-a6030178a585/go.mod h1:7FtoeaSnHoZnmZzz47cM35Y9nSW7tNyaidugnHTaFDE=
+github.com/cenk/bitfield v0.0.0-20160603124655-a6292f4ee5df/go.mod h1:YAUOXs2gyXm1+aJ0psQJznkMcGdyOjOFG4QcaCqdf/U=
+github.com/igungor/go-putio v0.0.0-20161129111850-7247a3d60c78/go.mod h1:JiHXOl+xJXPZXoIYmAjPNOKr2cJFsXTX0BmzjJQaWd0=
+github.com/rjeczalik/notify v0.0.0-20160804185246-48fbf980305b/go.mod h1:rKwnCoCGeuQnwBtTSPL9Dad03Vh2n40ePRrjvIXnJho=
+golang.org/x/net v0.0.0-20160627004636-e445b19913b9/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/oauth2 v0.0.0-20160608215109-65a8d08c6292/go.mod h1:N/0e6XlmueqKjAGxoOufVs8QHGRruUQn6yWY3a++T0U=
+golang.org/x/sync v0.0.0-20160715190549-316e794f7b5e/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
+google.golang.org/cloud v0.0.0-20160624182442-a4c7c3139dc2/go.mod h1:0H1ncTHf11KCFhTc/+EFRbzSCOZx+VUbRMk55Yv5MYk=
